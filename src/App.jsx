@@ -1,6 +1,6 @@
 import Experience from "./Components/Experience/Experience"
 import Contact from "./Components/Contact/Contact"
-import Education from "./Components/Education/education"
+import Education from "./Components/Education/Education"
 import Footer from "./Components/Footer/footer"
 import Skills from "./Components/Skills/skills"
 import Work from "./Components/Work/work"
