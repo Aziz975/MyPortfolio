@@ -33,6 +33,7 @@ import netlifyLogo from './assets/tech_logo/netlify.png';
 import vercelLogo from './assets/tech_logo/vercel.png';
 import postgreLogo from './assets/tech_logo/postgre.png';
 import csharpLogo from './assets/tech_logo/csharp.png';
+import expenseLogo from './assets/work_logo/expense.png';
 
 // Experience Section Logo's
 import pinnacleLogo from './assets/company_logo/pinnacle.jpeg';
@@ -200,7 +201,7 @@ export const SkillsInfo = [
       title: "Expense Tracker App",
       description:
         "Developed a full-stack Expense Tracker application using React.js, Tailwind CSS, Node.js, Express.js, and MySQL to help users efficiently manage and monitor their personal finances. Implemented JWT-based authentication for secure user access and RESTful APIs for managing income and expense records. Added features for categorizing transactions, tracking spending, and viewing financial summaries through a responsive and user-friendly interface.",
-      image: digitalclockLogo,
+      image:expenseLogo ,
       tags: [ "React", "CSS tailwind", "Node"],
       github: "https://github.com/Aziz975/Expense-app",
    
